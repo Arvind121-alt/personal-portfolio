@@ -1,0 +1,185 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+body{
+    background-color:#000000;
+}
+.main{
+    margin-bottom:10px;
+    padding-bottom:10px;
+}
+
+header h1{
+    display: inline;
+    float:left;
+    margin-left: 30px;
+    color:#180161;
+
+}
+
+nav li{
+    margin-left: 70%;
+    margin: 10px;
+    float:left;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    display:flex;
+    margin-left: 50%;
+}
+
+nav ul li{
+    display:inline;
+    margin-left: 10px;
+
+    
+}
+
+nav a{
+    text-decoration: none;
+    color:#B60071;
+}
+
+nav a:hover{
+    color: #399918;
+    cursor: pointer;
+
+}
+.home-con{
+    margin-bottom: 160px;
+}
+.home-con h1{
+    font-size: xx-large;
+    color:#3E3232;
+    margin-bottom: 40px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 100px;
+}
+.home-con h2{
+    font-size: x-large;
+    font-weight: 200;
+    text-align: center;
+    height: 200px;
+    width: 900px;
+    margin-left: 300px;
+    color: #4E4FEB;
+}
+.home-con #but{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 30%;
+    height: 90px;
+    width:40px;
+    font-size: large;
+}
+.home-con img{
+    margin-left: 37%;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+.home-con #about{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 10%;
+    height: 90px;
+    width:40px;
+    font-size: large;
+}
+.About-me img{
+    height:500px;
+    width:290px;
+    border-radius: 50%;
+    object-fit:inherit;
+    margin-left: 37%;
+
+}
+.About-me h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 60px;
+    color:darkred;
+}
+.About-me h2{
+    height: 150px;
+    width:1000px;
+    font-size:x-large;
+    margin-left:15%;
+    margin-top: 30px;
+    color: #D20062;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.About-me #contact{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 40%;
+    height: 90px;
+    width:40px;
+    font-size: large;
+}
+.my-skills li{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #E966A0;
+}
+.my-skills h1{
+    margin-top: 60px;
+    font-size: 50px;
+    margin-left:40px;
+    color:#5F0F40;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.my-skills ul{
+    margin-bottom: 80px;
+    margin-top: 90px;
+}
+footer{
+    background-color: chocolate;
+}
+footer h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer .contactUs{
+    font-size: 40px;
+    display: flex;
+    color:black;
+    margin-top:50px;
+    margin-left: 30%;
+    align-items: center;
+    
+}
+i{
+    text-decoration: none;
+    margin-left: 80px;
+    color: #000;
+    border: none;
+    /* border-radius: 5px; */
+    /* background-color: #000; */
+}
+.About-me span {
+    color:#40679E;
+}
+
+
+
+
+
